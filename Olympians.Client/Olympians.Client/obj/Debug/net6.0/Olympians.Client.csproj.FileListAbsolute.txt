@@ -1,0 +1,35 @@
+D:\Academy\Olympians.Client\Olympians.Client\obj\Debug\net6.0\Olympians.Client.csproj.AssemblyReference.cache
+D:\Academy\Olympians.Client\Olympians.Client\obj\Debug\net6.0\Olympians.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academy\Olympians.Client\Olympians.Client\obj\Debug\net6.0\Olympians.Client.AssemblyInfoInputs.cache
+D:\Academy\Olympians.Client\Olympians.Client\obj\Debug\net6.0\Olympians.Client.AssemblyInfo.cs
+D:\Academy\Olympians.Client\Olympians.Client\obj\Debug\net6.0\Olympians.Client.csproj.CoreCompileInputs.cache
+D:\Academy\Olympians.Client\Olympians.Client\bin\Debug\net6.0\Olympians.Client.exe
+D:\Academy\Olympians.Client\Olympians.Client\bin\Debug\net6.0\Olympians.Client.deps.json
+D:\Academy\Olympians.Client\Olympians.Client\bin\Debug\net6.0\Olympians.Client.runtimeconfig.json
+D:\Academy\Olympians.Client\Olympians.Client\bin\Debug\net6.0\Olympians.Client.dll
+D:\Academy\Olympians.Client\Olympians.Client\bin\Debug\net6.0\Olympians.Client.pdb
+D:\Academy\Olympians.Client\Olympians.Client\bin\Debug\net6.0\Olympians.Models.dll
+D:\Academy\Olympians.Client\Olympians.Client\obj\Debug\net6.0\Olympians.Client.csproj.CopyComplete
+D:\Academy\Olympians.Client\Olympians.Client\obj\Debug\net6.0\Olympians.Client.dll
+D:\Academy\Olympians.Client\Olympians.Client\obj\Debug\net6.0\refint\Olympians.Client.dll
+D:\Academy\Olympians.Client\Olympians.Client\obj\Debug\net6.0\Olympians.Client.pdb
+D:\Academy\Olympians.Client\Olympians.Client\obj\Debug\net6.0\Olympians.Client.genruntimeconfig.cache
+D:\Academy\Olympians.Client\Olympians.Client\obj\Debug\net6.0\ref\Olympians.Client.dll
+D:\Documents\Visual Studio Repository\Olympians.Client\Olympians.Client\bin\Debug\net6.0\Olympians.Client.exe
+D:\Documents\Visual Studio Repository\Olympians.Client\Olympians.Client\bin\Debug\net6.0\Olympians.Models.dll
+D:\Documents\Visual Studio Repository\Olympians.Client\Olympians.Client\obj\Debug\net6.0\Olympians.Client.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio Repository\Olympians.Client\Olympians.Client\obj\Debug\net6.0\Olympians.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Visual Studio Repository\Olympians.Client\Olympians.Client\obj\Debug\net6.0\Olympians.Client.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio Repository\Olympians.Client\Olympians.Client\obj\Debug\net6.0\Olympians.Client.AssemblyInfo.cs
+D:\Documents\Visual Studio Repository\Olympians.Client\Olympians.Client\obj\Debug\net6.0\Olympians.Client.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio Repository\Olympians.Client\Olympians.Client\obj\Debug\net6.0\Olympians.Client.csproj.CopyComplete
+D:\Documents\Visual Studio Repository\Olympians.Client\Olympians.Client\obj\Debug\net6.0\Olympians.Client.dll
+D:\Documents\Visual Studio Repository\Olympians.Client\Olympians.Client\obj\Debug\net6.0\refint\Olympians.Client.dll
+D:\Documents\Visual Studio Repository\Olympians.Client\Olympians.Client\obj\Debug\net6.0\Olympians.Client.pdb
+D:\Documents\Visual Studio Repository\Olympians.Client\Olympians.Client\bin\Debug\net6.0\Olympians.Client.deps.json
+D:\Documents\Visual Studio Repository\Olympians.Client\Olympians.Client\bin\Debug\net6.0\Olympians.Client.runtimeconfig.json
+D:\Documents\Visual Studio Repository\Olympians.Client\Olympians.Client\bin\Debug\net6.0\Olympians.Client.dll
+D:\Documents\Visual Studio Repository\Olympians.Client\Olympians.Client\bin\Debug\net6.0\Olympians.Client.pdb
+D:\Documents\Visual Studio Repository\Olympians.Client\Olympians.Client\obj\Debug\net6.0\Olympians.Client.genruntimeconfig.cache
+D:\Documents\Visual Studio Repository\Olympians.Client\Olympians.Client\obj\Debug\net6.0\ref\Olympians.Client.dll
+D:\Documents\Visual Studio Repository\Olympians.Client\Olympians.Client\bin\Debug\net6.0\Newtonsoft.Json.dll
